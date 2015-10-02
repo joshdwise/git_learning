@@ -1,3 +1,5 @@
 git is good at conflict resolution.
 
 please keep your line here:
+
+Conflict is the heart of progress. 
